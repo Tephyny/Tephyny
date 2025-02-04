@@ -18,4 +18,4 @@ I'm passionate about **creating solutions that incorporate the use of animations
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/stephanie-shawa-152442319)
 
 
-![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tephyny&theme=dark&show_icons=true)
+![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tephyny&theme=nightowl_icons=true)
