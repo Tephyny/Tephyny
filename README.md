@@ -7,7 +7,7 @@
 intro = "Hey, I'm Stephanie Shawa"
 
 about_me = {
-    "role": "Public Speaker|Frontend Developer|Data Analyst",
+    "role": "Public Speaker","Frontend Developer","Data Analyst"],
     "focus": ["Data", "Education", "Social Impact"],
     "currently": ["Learning", "Teaching", "Touching Grass"]
 }
